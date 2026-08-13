@@ -1,4 +1,4 @@
-%%writefile inventilytics.py
+#%%writefile inventilytics.py
 """
 Inventilytics - Earthly Q Production Intelligence System
 Version 15.0 - Comprehensive Data Matching & Business Intelligence
