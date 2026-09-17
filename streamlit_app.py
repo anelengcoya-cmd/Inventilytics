@@ -1,7 +1,6 @@
-#%%writefile inventilytics.py
 """
 EQPIS - Earthly Q Production Intelligence System
-Version 16.0 - Formula Cleaning, Duplicate Inventory, & Restock List
+Version 1.6 - Formula Cleaning, Duplicate Inventory, & Restock List
 """
 
 import streamlit as st
