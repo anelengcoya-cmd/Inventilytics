@@ -1,4 +1,3 @@
-%%writefile inventilytics.py
 """
 EQPIS - Earthly Q Production Intelligence System
 Version 1.6 - Formula Cleaning, Duplicate Inventory, & Restock List
